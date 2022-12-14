@@ -1,5 +1,8 @@
 # Terraform is Simple
-Usage : - Download main.tf file/n
-        - Run terraform init in the same directory as main.tf file
-        - Run terraform plan
-        - Run terraform apply
+Usage : 
+- Install Terraform on your machine
+- Download main.tf file, put in directory. Example : Project-1
+- Go to Project-1 directory
+- Run terraform init
+- Run terraform plan
+- Run terraform apply
